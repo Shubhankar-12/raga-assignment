@@ -6,7 +6,7 @@ in, scanning the dashboard, drilling into a patient, and watching analytics.
 
 ## Tech stack
 
-- **Framework**: Next.js 14 (App Router) + React 18 + TypeScript (strict)
+- **Framework**: Next.js 16 (App Router) + React 18 + TypeScript (strict)
 - **Styling**: Tailwind CSS with a small in-house design system
 - **State**: Zustand (auth, patients, UI prefs) — chosen for its tiny footprint
   and zero-boilerplate ergonomics versus Redux for a project of this size
